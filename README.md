@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abigel Asteraye!
- - 🌱 I’m currently a first year Data scinece and Computer Science student at Mount Holyoke College.
+ - 🌱 I’m currently a Second year Statistics and Computer Science student at Mount Holyoke College.
  - ✨You can reach me either though [Linkedin][1] or through [email][2]! I am more than happy to connect!✨
  
  
